@@ -1,3 +1,6 @@
 {
-	"name": "Peter Yoon"
+	"names": [
+		{"name": "Peter Yoon", "id": 1},
+		{"name": "Faith Cho", "id": 2}
+	]
 }
